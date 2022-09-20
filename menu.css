@@ -35,4 +35,10 @@ a.menu
     color: var(--gold);
     font-size: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+
+li
+{
+    list-style-type: none;
 }

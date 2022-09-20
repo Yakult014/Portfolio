@@ -1,6 +1,7 @@
 
 /* reseting css rules */
-* {
+* 
+{
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
@@ -8,15 +9,24 @@
   font-family: "Roboto", sans-serif;
 }
 
-:root {
-  --orange: #f78b00;
-  --blue: #00285f;
-  --gray: #ededed;
+:root 
+{
+    --gold: #C99D00;
+    --blue: #011627;
+    --gray: #ededed;
 }
 
 html,body 
 {
   width: 100%;
   overflow-x: hidden;
+}
+
+/*line size*/
+div.line
+{
+  height: 10px;
+  background: var(--gold);
+ 
 }
 

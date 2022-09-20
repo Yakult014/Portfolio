@@ -1,0 +1,22 @@
+
+/* reseting css rules */
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  outline: none;
+  font-family: "Roboto", sans-serif;
+}
+
+:root {
+  --orange: #f78b00;
+  --blue: #00285f;
+  --gray: #ededed;
+}
+
+html,body 
+{
+  width: 100%;
+  overflow-x: hidden;
+}
+

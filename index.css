@@ -27,6 +27,6 @@ div.line
 {
   height: 10px;
   background: var(--gold);
- 
+  margin-top: -5px;
 }
 

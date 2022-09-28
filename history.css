@@ -1,0 +1,13 @@
+img 
+{
+    max-width: 100%;
+    max-height: 100%;
+    position: absolute;
+    z-index: 1;
+}
+
+.cat
+{
+    height: 800px;
+    width: 100%;
+}
